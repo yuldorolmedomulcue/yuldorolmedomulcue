@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy el Ingeniero Mulcue</h1>
+<h1 align="center">Hola,👋 soy el Ingeniero Mulcue</h1>
 
 
 
@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱Aprendizaje continuo en **Desarrollo WEB Full-Stack**<br> 
-<p>Estudiante de Ingenieria de Software,</p>
+<p>Estudiante de Ingenieria de Software</p>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <hr width="36%" >
