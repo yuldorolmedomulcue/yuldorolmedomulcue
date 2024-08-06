@@ -24,9 +24,6 @@
 <a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
 <br>
 
 
-<hr width="36%" >
