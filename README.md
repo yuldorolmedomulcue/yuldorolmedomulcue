@@ -25,9 +25,6 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <!-- Aquí va tu texto -->
-    <h2>Tu título aquí</h2>
-    <p>Este es tu texto a la izquierda del GIF. Puedes escribir lo que quieras aquí y se alineará a la izquierda.</p>
   </div>
   <div>
     <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
