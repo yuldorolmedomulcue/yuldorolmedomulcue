@@ -25,3 +25,6 @@
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
